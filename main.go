@@ -1,4 +1,4 @@
-package maingodoc
+package main
 
 import (
 	"log"
